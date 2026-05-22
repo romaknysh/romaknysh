@@ -57,17 +57,6 @@ building projects          —  that actually do something useful
 
 ---
 
-## `$ ls ./projects`
-
-| repo | what it does | stack |
-|------|-------------|-------|
-| [scrapping](https://github.com/romaknysh/scrapping) | web scraping stuff | `python` |
-| [IntalitIPhoneScrapper](https://github.com/romaknysh/IntalitIPhoneScrapper) | phone data scraper | `python` |
-| [q_study_bro](https://github.com/romaknysh/q_study_bro) | study helper | `python` |
-| [band-career-simulator](https://github.com/romaknysh/band-career-simulator) | music band sim · OOP + Swing GUI | `java` |
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anna-knysh-7a6175392)
