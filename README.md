@@ -57,17 +57,6 @@ building projects          —  that actually do something useful
 
 ---
 
-## `$ git log --stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=romaknysh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaknysh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
-
-</div>
-
----
-
 ## `$ ls ./projects`
 
 | repo | what it does | stack |
